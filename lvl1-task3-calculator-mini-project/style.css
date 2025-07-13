@@ -43,3 +43,7 @@ form .screen input {
   margin: 5px;
 }
 
+form input.equal {
+  width: 155px;
+}
+
